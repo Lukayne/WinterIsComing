@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Winter Is Coming</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_a_city">Save a city</string>
+    <string name="addcity">+</string>
+    <string name="save_place">save</string>
+    <string name="save_place_tf">Save place..</string>
+    <string name="search">Search</string>
+    <string name="search_for_city">Search for a city</string>
+</resources>
